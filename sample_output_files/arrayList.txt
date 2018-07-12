@@ -1,0 +1,36 @@
+Type: Stock
+Symbol: TD
+Name: Toronto Dominion Bank
+Quantity: 300
+Price: 69.31
+Book Value: 15005.995
+Type: Mutual Fund
+Symbol: CIG677
+Name: CI Signature Select Canadian
+Quantity: 450
+Price: 77.77
+Book Value: 9000.0
+Type: Stock
+Symbol: RBC
+Name: Royal Canadian Bank
+Quantity: 700
+Price: 77.77
+Book Value: 54448.984
+Type: MutualFund
+Symbol: CIG678
+Name: CI Signature Select American
+Quantity: 450
+Price: 26.95
+Book Value: 9000.0
+Type: Stock
+Symbol: BT
+Name: Bank of Toronto
+Quantity: 750
+Price: 98.98
+Book Value: 56514.984
+Type: Stock
+Symbol: PE
+Name: Pearson Education
+Quantity: 750
+Price: 103.57
+Book Value: 65934.99

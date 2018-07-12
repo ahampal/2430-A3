@@ -1,0 +1,12 @@
+Type: MutualFund
+Symbol: CIG677
+Name: CI Signature Select Canadian
+Quantity: 450
+Price: 20.0
+Book Value: 9000.0
+Type: Stock
+Symbol: TD
+Name: Toronto Dominion Bank
+Quantity: 500
+Price: 50.0
+Book Value: 25009.99
